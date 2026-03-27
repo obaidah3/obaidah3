@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%40+EJUST;AI+%26+Data+Science+Specialist;Embedded+Systems+%26+IoT+Engineer;ADAS+%26+Autonomous+Systems+Builder;Computer+Vision+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%40+EJUST;AI+%26+Data+Science+Engineer;Embedded+Systems+%26+IoT+Enthusiast;ADAS+%26+Autonomous+Systems+Builder;Computer+Vision+Developer" alt="Typing SVG" />
 </div>
 
 ---
